@@ -51,3 +51,9 @@ Download from [Arduino IDE](https://www.arduino.cc/en/software).
 ```bash
 git clone https://github.com/YOUR-USERNAME/line-following-robot.git
 cd line-following-robot
+
+👨‍💻 Author
+
+Mehedi Hasan Roni
+🔗 Portfolio / Website
+www.mhroni.me 
